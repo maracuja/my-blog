@@ -46,7 +46,7 @@ For the second stage, the hock should be soft without being like a pulled pork s
 
 The third stage is all about time, the longer you boil it the better it tastes. (APPARENTLY anyway. I've only been alive long enough to cook this twice)
 
-##The Sauce
+## The Sauce
 **Ingredients**  
 
 * Korean chilli paste (gochujang)
@@ -58,7 +58,7 @@ This is the sauce you dollop into your bowl when you're eating The method is sim
 
 **OR** excitedly scoff all the meat down with it whilst downing soju by the bucket as we did. up to you.
 
-##Serving it
+## Serving it
 **Ingredients**  
 
 * The Broth™
@@ -78,11 +78,11 @@ You then season it how you want with the salted shrimps, the chilli sauce and lo
 
 Don't forget to eat with kimchi*!*
 
-##Info on Ingredients
+## Info on Ingredients
 **Salted Shrimp / 새우 젓**  
 If you go into a Korean store and ask for salted shrimp then they should know what you're on about. They should be in the freezer section in like instant coffee shaped jars and the shrimps themselves are pink.
 
-##References
+## References
 
 * [This american guy's youtube video is fab :D](https://www.youtube.com/watch?v=evaNBAv31JM) - only problem is he uses Imperial measurements, I have no idea what they are
 * [Korean dwaeji gukbab recipe article](http://m.blog.naver.com/yummycook/70180928522) - as you can see from the photos in this article, you pay for pork bones in Korea! we throw them away in this country :D
