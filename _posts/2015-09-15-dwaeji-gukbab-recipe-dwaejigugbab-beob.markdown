@@ -1,11 +1,11 @@
 ---
 title: 돼지국밥 법
-date: 2015-09-15 22:11:06 Z
+date: 2015-09-15 22:11:00 Z
 subheading: Dwaeji Gukbab / Pork Thing ... I dunno
-layout: post
 thumbnail: https://farm3.staticflickr.com/2025/2274258752_7a8ca25d84_o.jpg
 author: David-George
 twitter: maracuja
+layout: post
 ---
 
 Ever since we started boiling stuff for long periods of time in order to make [Naengmyon](/2015/09/04/mulnaengmyeon-recipe-mulnaengmyeon-beob.html), I started building up the courage to try making this dish I'd had in Busan a few years ago.
@@ -18,7 +18,7 @@ Funny thing is it tastes really British and considering my previous meal include
 
 Turns out it's quite a simple recipe, but just takes ages to make the broth. It then all comes together quickly at the end for a grandstand finish.
 
-##The Broth™
+## The Broth™
 **Ingredients**
 
 * a few pork bones
