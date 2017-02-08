@@ -8,7 +8,7 @@ author: David-George
 twitter: maracuja
 ---
 
-Ever since we started boiling stuff for long periods of time in order to make [Naengmyon](http://interesting-korean-food-blog.omglol.co.uk/2015/09/04/mulnaengmyeon-recipe-mulnaengmyeon-beob/), I started building up the courage to try making this dish I'd had in Busan a few years ago.
+Ever since we started boiling stuff for long periods of time in order to make [Naengmyon](/2015/09/04/mulnaengmyeon-recipe-mulnaengmyeon-beob.html), I started building up the courage to try making this dish I'd had in Busan a few years ago.
 
 It's a milky looking soup in a big bowl with rice at the bottom and slices of boiled pork floating around in it, it's really amazing.
 
@@ -42,7 +42,7 @@ The first stage of boiling is all about boiling out impurities I think. You boil
 
 For the second stage, the hock should be soft without being like a pulled pork soft, it needs a little firmness. Once it has that, you can take it out.
 
-![end of stage two, meat put aside and bones left in](https://farm1.staticflickr.com/717/21450286055_433438d8bd_o.jpg)
+![end of stage two, meat put aside and bones left in](https://c1.staticflickr.com/1/717/21450286055_6a948f5d73_b.jpg)
 
 The third stage is all about time, the longer you boil it the better it tastes. (APPARENTLY anyway. I've only been alive long enough to cook this twice)
 
