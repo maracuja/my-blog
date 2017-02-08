@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Mulnaengmyeon Recipe / 물냉면 법
-date: '2015-09-04 20:44:19'
+date: 2015-09-04 20:44:19 Z
+layout: post
 ---
 
 Mulnaengmyeon simply are noodles served cold floating in a sea of icy broth with like thinly sliced things floating around the bowl to keep you company.

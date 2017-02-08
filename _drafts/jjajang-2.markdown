@@ -1,6 +1,7 @@
 ---
-layout: post
 title: 'Jjajangmyeon Recipe: Episode I / 짜장면 요리 법: 체1과'
+date: 2017-02-08 10:35:54.146000000 Z
+layout: post
 ---
 
 Put simply, these are ~~Chinese-Style~~ Completely Korean-Style Black Bean Noodles*!*

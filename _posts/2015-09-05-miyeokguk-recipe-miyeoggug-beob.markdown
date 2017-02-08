@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Miyeokguk Recipe / 미역국 법
-date: '2015-09-05 19:33:31'
+date: 2015-09-05 19:33:31 Z
+layout: post
 ---
 
 "Miyeokguk is an absolutely delicious seaweed soup that is immensely good for your health."

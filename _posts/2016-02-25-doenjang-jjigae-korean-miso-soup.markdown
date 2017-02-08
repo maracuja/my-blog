@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Korean Miso Soup / Doenjang Jjigae 된장찌개
-date: '2016-02-25 13:30:20'
+date: 2016-02-25 13:30:20 Z
+layout: post
 ---
 
 Doenjang Jjigae is the Korean version of the well-known Japanese side dish Miso Soup™. Unlike it's Japanese counterpart, Korean Miso Soup is a bit more substantial and meant to be eaten as part of a meal.

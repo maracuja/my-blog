@@ -1,7 +1,7 @@
 ---
-layout: post
 title: TIL I learnt some python
-date: '2016-04-08 22:12:00'
+date: 2016-04-08 22:12:00 Z
+layout: post
 ---
 
 OMG I can't believe I never used this before ...
