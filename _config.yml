@@ -1,5 +1,6 @@
 ---
-title: My Blog
+title: Korean Food Blog
+subtitle: 나는 영국인 입니다~ 한식 너무 좋아 합니다~
 timezone: UTC
 collections:
   posts:
@@ -9,14 +10,9 @@ collections:
     title: Uploads
     output: true
 email: david@setr.co.uk
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-
-'
+description: ''
 baseurl: 
 url: http://blog.omglol.co.uk
-twitter_username: jekyllrb
-github_username: jekyll
+twitter: maracuja
+github: maracuja
 markdown: kramdown
-theme: jekyll-theme-slate

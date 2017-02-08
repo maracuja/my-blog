@@ -1,7 +1,11 @@
 ---
-title: Dwaeji Gukbab Recipe / 돼지국밥 법
+title: 돼지국밥 법
+subheading: Dwaeji Gukbab / Pork Thing ... I dunno
 date: 2015-09-15 22:11:06 Z
 layout: post
+thumbnail: https://farm3.staticflickr.com/2025/2274258752_7a8ca25d84_o.jpg
+author: David-George
+twitter: maracuja
 ---
 
 Ever since we started boiling stuff for long periods of time in order to make [Naengmyon](http://interesting-korean-food-blog.omglol.co.uk/2015/09/04/mulnaengmyeon-recipe-mulnaengmyeon-beob/), I started building up the courage to try making this dish I'd had in Busan a few years ago.

@@ -1,7 +1,11 @@
 ---
-title: Miyeokguk Recipe / 미역국 법
+title: 미역국 법
+subheading: Miyeokguk / Seaweed Soup
 date: 2015-09-05 19:33:31 Z
 layout: post
+thumbnail: https://farm6.staticflickr.com/5792/20983106428_506a0408f4_o.png
+author: David-George
+twitter: maracuja
 ---
 
 "Miyeokguk is an absolutely delicious seaweed soup that is immensely good for your health."
