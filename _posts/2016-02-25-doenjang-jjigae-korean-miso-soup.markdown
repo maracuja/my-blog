@@ -1,7 +1,7 @@
 ---
 title: 된장찌개
-subheading: Doenjang Jjigae / Korean Miso Soup
 date: 2016-02-25 13:30:20 Z
+subheading: Doenjang Jjigae / Korean Miso Soup
 layout: post
 thumbnail: http://scontent.cdninstagram.com/t51.2885-15/e35/12751447_1505964206378925_1588994442_n.jpg
 author: David-George
