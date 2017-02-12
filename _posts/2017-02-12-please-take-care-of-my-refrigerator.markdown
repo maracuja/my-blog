@@ -20,6 +20,6 @@ You end up getting this great insight into the day to day things that not only K
 
 It also has some great moments, here is a guest being told by one of the chefs to go see a doctor and get his tastebuds fixed lol
 
-![Screen Shot 2017-02-12 at 21.15.05.png](/uploads/Screen%20Shot%202017-02-12%20at%2021.15.05.png)
+![Kim Heung-guk](/uploads/Screen%20Shot%202017-02-12%20at%2021.15.05.png)
 
 I'm only telling you this because a lot of posts will be about recipes in the show ha ha. You can see most of the episodes here [Kshowonline Episode Guide](http://kshowonline.com/category/155/please-take-care-of-my-refrigerator) they have been translated into English or you can catch in on KORTV (without subtitles!)
