@@ -1,7 +1,7 @@
 ---
 title: 냉장고를 부탁해
 date: 2017-02-12 20:30:00 Z
-subheading: Please Take Care of My Refriferator
+subheading: Please Take Care of My Refrigerator
 thumbnail: http://blog.omglol.co.uk/img/nengjango.jpg
 author: David-George
 twitter: maracuja
