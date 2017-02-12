@@ -43,7 +43,7 @@
                     <div class="post-heading">
                         <h1>{{ page.title }}</h1>
                         <h2 class="subheading">{{ page.subheading }}</h2>
-                        <span class="meta">Posted by <a href="http://www.twitter.com/{{ page.twitter }}">{{ page.author }}</a> on August 24, 2014</span>
+                        <span class="meta">Posted by <a href="http://www.twitter.com/{{ page.twitter }}">{{ page.author }}</a> on {{ page.date | date: "%b %-d, %Y" }}</span>
                     </div>
                 </div>
             </div>
