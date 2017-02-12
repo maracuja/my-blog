@@ -3,7 +3,7 @@ title: 미소 밀푀유
 date: 2017-02-12 11:10:00 Z
 subheading: Miso Millefeuille
 layout: post
-thumbnail: /img/miso-millefeuille.png
+thumbnail: "/img/miso-millefeuille.png"
 author: David-George
 twitter: maracuja
 ---
