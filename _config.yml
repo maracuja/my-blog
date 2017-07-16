@@ -16,3 +16,4 @@ url: http://blog.omglol.co.uk
 twitter: maracuja
 github: maracuja
 markdown: kramdown
+include: ['vendor',]
