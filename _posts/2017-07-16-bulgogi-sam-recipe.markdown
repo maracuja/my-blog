@@ -26,7 +26,7 @@ Anyway you mix it all up in a bowl, stick the steak in it too and leave till tom
 
 It should look something like this when you're done
 
-![the marinade and beef](http://scontent.cdninstagram.com/t51.2885-15/e35/12751447_1505964206378925_1588994442_n.jpg)
+![the marinade and beef](/uploads/marinade.jpg)
 
 ## Ssam Ingredients
 
