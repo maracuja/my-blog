@@ -10,9 +10,10 @@ layout: post
 
 As part of my annual posting ritual, I thought I'd explain something quick and super amazing for barbecues which is SSAM. Ssam is basically three things: - Meat, lettuce and sauce (and rice and garlic and maybe kimchi)
 
-First thing you need to do is get some beef and marinate it in some kind of soy sauce for about 24 hours. The beef in these pics is Rib Eye steak nyom nyom nyom, this is how you make the marinade
+First thing you need to do is get some beef and marinate it in some kind of soy sauce for about 24 hours. The beef in these pics is Rib Eye steak nyom nyom nyom, this is how you make the marinade.
 
-## The Marinade Ingredients
+## The Marinade Ingredients
+
 - 330ml dark soy sauce
 - Table spoon of korean chilli paste 고추장
 - Can of Pepsi
