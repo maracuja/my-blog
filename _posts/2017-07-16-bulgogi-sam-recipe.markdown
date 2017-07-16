@@ -2,7 +2,7 @@
 title: 불고기 쌈 요리 법
 date: 2017-07-16 21:34:00 Z
 subheading: Bulgogi Ssam / Awesome BBQ Beef
-thumbnail: http://blog.omglol.co.uk/img/nengjango.jpg
+thumbnail: http://blog.omglol.co.uk/uploads/IMG_4863.JPG
 author: David-George
 twitter: maracuja
 layout: post
