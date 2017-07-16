@@ -39,6 +39,8 @@ straight away. You will need the following: -
 - Sesame leaves if you have them
 - Kimchi if you have any
 
+![different things that go into Ssam](/uploads/IMG_1847.JPG)
+
 ## Method!
 
 1. Get the lettuce leaf in your hand
