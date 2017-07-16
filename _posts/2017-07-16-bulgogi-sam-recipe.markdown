@@ -49,7 +49,7 @@ straight away. You will need the following: -
 
 Before it goes in your pie-hole it should look like this ...
 
-![end result](http://scontent.cdninstagram.com/t51.2885-15/e35/12751447_1505964206378925_1588994442_n.jpg)
+![end result](/uploads/IMG_1993.JPG)
 
 # YOU'RE WELCOME
 
