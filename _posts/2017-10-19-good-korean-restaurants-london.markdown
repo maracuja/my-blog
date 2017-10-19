@@ -84,8 +84,6 @@ result.
 Paranhodu is the restaurant nearest to us (we live in Honor Oak) we really should go in
 here more often - the yukgaejang is big and hearty
 
-![the marinade and beef](/uploads/marinade.jpg)
-
 [https://www.facebook.com/paranhodu/](https://www.facebook.com/paranhodu/)
 
 ---
