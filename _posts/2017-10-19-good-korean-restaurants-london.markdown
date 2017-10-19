@@ -2,7 +2,7 @@
 title: 7 Good Korean Restaurants in London
 date: 2017-10-19 09:30:00 Z
 subheading: 런던 한국식당 베스트 7
-thumbnail: /uploads/london.png
+thumbnail: "/uploads/london.png"
 author: David-George
 twitter: maracuja
 layout: post
