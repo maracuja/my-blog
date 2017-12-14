@@ -2,7 +2,7 @@
 title: 7 Good Korean Restaurants in London
 date: 2017-10-19 09:30:00 Z
 subheading: 런던 한국식당 베스트 7
-thumbnail: /uploads/london.png
+thumbnail: "/uploads/london.png"
 author: David-George
 twitter: maracuja
 layout: post
@@ -81,14 +81,10 @@ result.
 
 # 7. Paranhodu - New Cross
 
-Paranhodu is the restaurant nearest to us (we live in Honor Oak) we really should go in
-here more often - the yukgaejang is big and hearty
-
-![the marinade and beef](/uploads/marinade.jpg)
+Paranhodu is the restaurant nearest to us (we live in Honor Oak) we really should go in here more often - the yukgaejang is big and hearty
 
 [https://www.facebook.com/paranhodu/](https://www.facebook.com/paranhodu/)
 
 ---
 
-I just want to say, I know most of these pictures are of Yukgaejang. It's just my
-favourite dish. I'm more than capable of eating other things!
+I just want to say, I know most of these pictures are of Yukgaejang. It's just my favourite dish. I'm more than capable of eating other things!
