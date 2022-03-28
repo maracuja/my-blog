@@ -1,6 +1,6 @@
 ---
 title: 짜장면 요리 법 - 체1과
-date: 2017-02-08 10:35:00 Z
+date: 2022-03-27 10:35:00 Z
 subheading: Jjajangmyeon Recipe - Episode I
 layout: post
 thumbnail: 

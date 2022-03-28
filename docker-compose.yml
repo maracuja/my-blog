@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  jekyll:
+    image: jekyll/jekyll
+    ports:
+      - "4000:4000"
+    volumes:
+      - ./:/srv/jekyll
+    environment:
+      - JEKYLL_VERSION=3.8
+    command: sh -c "jekyll serve -H 0.0.0.0 --incremental"
+
+networks:
+  elastic:
+    driver: bridge
